@@ -35,15 +35,15 @@ function HomeScreen({ navigation }) {
     },
     buttonContainer: {
       flexDirection: "row",
-      alignItems: 'center',
-      justifyContent: 'space-between'
+      justifyContent: 'space-around',
+      marginHorizontal: 25
     },
     text: {
       marginTop: 50,
       marginBottom: 5,
     },
     button: {
-      width: '40%',
+      width: '30%',
       height: 40
     },
     input: {
