@@ -1,7 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View, Button, TextInput, FlatList } from 'react-native';
-import { NavigationContainer } from '@react-navigation/native';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { StyleSheet, Text, View, Button, TextInput } from 'react-native';
 
 export default function HomeScreen({ navigation }) {
 
